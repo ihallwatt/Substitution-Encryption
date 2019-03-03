@@ -198,8 +198,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1258" />
-    <option name="y" value="87" />
+    <option name="x" value="828" />
+    <option name="y" value="68" />
     <option name="width" value="930" />
     <option name="height" value="800" />
   </component>
@@ -274,7 +274,7 @@
       <workItem from="1550539774926" duration="1027000" />
       <workItem from="1550541614087" duration="28073000" />
       <workItem from="1550807815722" duration="27000" />
-      <workItem from="1551647644013" duration="837000" />
+      <workItem from="1551647644013" duration="1125000" />
     </task>
     <task id="LOCAL-00001" summary="Functions successfully reading, encrypting, and decrypting given files.">
       <created>1550712468730</created>
@@ -287,7 +287,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29964000" />
+    <option name="totallyTimeSpent" value="30252000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -299,9 +299,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="189" y="21" width="1100" height="640" extended-state="0" />
+    <frame x="663" y="55" width="744" height="640" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21826923" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33187133" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
